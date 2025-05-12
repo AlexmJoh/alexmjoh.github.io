@@ -30,7 +30,7 @@ I am actively seeking opportunities in **AI, robotics, automated systems, consum
 🧠 **Hippocampal Inspired Place Cell Model**  
 Brain-inspired spatial navigation system for autonomous robotic exploration and navigation.  
 
-🤖 **Multimodal AI Review**  
+🤖 **[Multimodal AI Review](/multimodal-ai-paper/)**  
 Comprehensive exploration of the current state of Multimodal LLM (MMLLM) systems.
 
 💡 **Hi-AI**  
